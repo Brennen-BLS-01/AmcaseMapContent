@@ -428,7 +428,7 @@ var map_cfg = {
    "link": "",
    "name": "Wisconsin",
    "color": "#006fb3",
-   "comment": "<p><em>Eastern Wisconsin</em></p><p>Bob Doherty</p><p><a href=\"mailto:dohertyassoc@sbcglobal.net\" rel=\"noopener noreferrer\">dohertyassoc@sbcglobal.net</a></p><p><a href=\"312.720.2551\" rel=\"noopener noreferrer\">312.720.2551</a></p><p><br></p><p><em>Western Wisconsin</em></p><p>Mike Ketcham</p><p><a href=\"mailto:mike@mketcham.com\" rel=\"noopener noreferrer\">mike@mketcham.com</a></p><p><a href=\"612.940.0128\" rel=\"noopener noreferrer\">612.940.0128</a></p>",
+   "comment": "<p><em>Eastern Wisconsin</em></p><p>Bob Doherty</p><p><a href=\"mailto:dohertyassoc@sbcglobal.net\" rel=\"noopener noreferrer\">dohertyassoc@sbcglobal.net</a></p><p><a href=\"312.720.2551\" rel=\"noopener noreferrer\">312.720.2551</a></p><p><br></p><p><em>Western Wisconsin</em></p><p>Mike Ketcham</p>",
    "colorOver": "#e6f0f6",
    "shortname": "WI"
   },
